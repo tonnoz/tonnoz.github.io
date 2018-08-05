@@ -4,16 +4,24 @@ date: 2018-07-31 14:55:27
 tags:
 ---
 
-Create a simple Markdown-based blog for free in 10 minutes :
+Create a simple Markdown-based blog (like this very one) without hosting and for free:
 
-**Software prerequisites**
+### Prerequisites
+
+**Software prerequisites:**
 - [Npm](https://www.npmjs.com/get-npm)
 - [Nodejs](https://nodejs.org/en/download/)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - A Windows, Mac or Linux machine
 <!-- more -->
 
-1) Install [Hexo Framework](https://hexo.io/docs/index.html#Install-Git).
+**Other prerequisites:**
+- A Github account
+
+
+### Steps
+
+1) Install [Hexo Framework](https://hexo.io/docs/index.html#Install-Git)
 
 
 2) Setup the blog:
@@ -73,14 +81,14 @@ $ hexo new post {your-blog-post-name}
 
 ```
 
-9) Edit the Markdown file created under the `source/_posts folder` with you post content!
+9) Edit the Markdown file created under the `source/_posts folder` with you post content!  
+  
+  
+10) Go on Github and create a repo called `{your_github_username}.github.io`
 
 
-10) Go on Github and set up a repo called {your_github_username}.github.io
-
-
-11) Into the settings tab enable the Github pages functionality, eventually settings up your custom
-    domain if you own any:
+11) Into the settings tab of the repo enable the Github pages functionality, eventually 
+    settings up your custom domain, if you own any:
 
 
 ![github pages example](./github_pages.png "screenshot")
