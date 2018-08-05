@@ -5,12 +5,11 @@ tags: hexo, nodejs, blog
 ---
 
 There are 3 categories of software engineers:
-1) Who blogged in the past but no longer blogs
+1) Who blogged in the past but no longer does
 2) Who is currently blogging
 3) Who haven't started yet but thought about it once or more
 <!-- more -->
-I am in category 1) but also 3) since I once had a blog but it was more about testing out blogging 
-frameworks and PaaS rather than focusing on good contents.
+I fall in category 1) but also 3) since I once had a blog but it was more about testing out blogging frameworks and PaaS rather than focusing on good contents.
 
 ### Why should you start blogging about tech?
 

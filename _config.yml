@@ -79,7 +79,7 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:tonycatapano/blog.github.io.git
+  repo: git@github.com:tonycatapano/tonycatapano.github.io.git
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
