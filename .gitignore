@@ -1,3 +1,9 @@
+#Deploy git
+.deploy_git
+
+#Intellij
+.idea
+
 # Logs
 logs
 *.log
