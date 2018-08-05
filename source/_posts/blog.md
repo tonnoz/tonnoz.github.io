@@ -42,14 +42,3 @@ So! Get out there today and build your own blog as well!
 My second post will show you how to create one with Github Pages and a simple Markdown to Html generator for free and at ease.
 
 Did you like the post? Why not helping me by sharing on your favourite social platform? PRAYING HANDS EMOJ Thanks!
-
-
-
-   
-   
-Naam: VvE Delftln H. Heijermans
-Omschrijving: debiteurnummer
-1301023 - vve administratie costs
-for May,June,July 2018 - Delftlaan
-301/2 2024CE
-IBAN: NL23ABNA0418576971
