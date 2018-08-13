@@ -1,4 +1,9 @@
 @font-face {
+  font-family: Roboto Slab;
+  src: url("../lib/robotoslab/RobotoSlab-Regular-webfont.woff") format('woff'), url("../lib/robotoslab/RobotoSlab-Regular.ttf") format('truetype');
+  font-weight: normal;
+}
+@font-face {
   font-family: Vazir;
   src: url("../lib/vazir-font/Vazir.eot");
   src: url("../lib/vazir-font/Vazir.eot?#iefix") format('embedded-opentype'), url("../lib/vazir-font/Vazir.woff2") format('woff2'), url("../lib/vazir-font/Vazir.woff") format('woff'), url("../lib/vazir-font/Vazir.ttf") format('truetype');
@@ -17,7 +22,7 @@
   font-weight: 300;
 }
 .rtl {
-  font-family: vazir, sans-serif;
+  font-family: Roboto Slab, sans-serif;
   direction: rtl;
 }
 .rtl #nav li {
