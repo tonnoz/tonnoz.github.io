@@ -1,7 +1,7 @@
 ---
 title: hexo
 date: 2018-07-31 14:55:27
-tags:
+tags: [hexo, blog, tutorial]
 ---
 
 Create a simple Markdown-based blog (like this very one) without hosting and for free:

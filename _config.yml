@@ -83,5 +83,13 @@ deploy:
   branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
+githubEmojis:
+  enable: true
+  className: github-emoji
+  unicode: false
+  styles:
+      display: inline
+      vertical-align: center
+  localEmojis:
 
 excerpt_link: Read More

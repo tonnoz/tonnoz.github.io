@@ -1052,7 +1052,7 @@ article header .meta {
 }
 article header .meta * {
   color: #ccc;
-  font-size: 0.85rem;
+  font-size: 1.1rem;
 }
 article header .author {
   text-transform: uppercase;
